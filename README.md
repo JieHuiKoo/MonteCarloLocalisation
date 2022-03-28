@@ -15,3 +15,7 @@ The robot will navigate throughout the map utilising waypoint navigation. This w
 6) The robot will then calculate the amount it should move in the x and y direction, as well as amount of rotation it should make, relative to the pose with the highest probability.
 
 ## Video Demonstration
+
+
+https://user-images.githubusercontent.com/31171083/160496707-3bc2e8bb-aef5-41bd-b90b-9feaca5e4160.mp4
+
