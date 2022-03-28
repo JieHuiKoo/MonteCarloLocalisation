@@ -5,7 +5,7 @@ This project was implemented with the powerful CoppeliaSim (Edu version) simulat
 Scripting was done in Lua, a high-level programming language, with great API support by CoppeliaSim.
 
 ## Desired outcome
-The robot will navigate throughout the map utilising waypoint navigation. This will be achieved using the Monte Carlo Localisation algorithm with the use of a depth sensor. By localising and predicting its own pose, the robot will adapt and tweak its motion to achieve precision.
+The robot will navigate throughout the map utilising waypoint navigation. This will be achieved using the Monte Carlo Localisation algorithm with the use of a depth sensor. By predicting its own pose, the robot will adapt and tweak its motion to achieve precision.
 
 ## Implementation
 1) Robot will generate a pool of 100 possible future poses after it completes its motion. This is done based purely on odometry and gaussian noise
